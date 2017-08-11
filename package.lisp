@@ -2,6 +2,8 @@
 
 (defpackage #:solar
   (:use #:cl)
-  (:export :get-kp-index
+  (:export :space-weather
+	   :get-xray-event
+	   :get-kp-index
 	   :get-solar-flux
 	   :get-solar-data))
