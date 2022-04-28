@@ -5,6 +5,7 @@
   :author "Jeff Francis <jeff@gritch.org>"
   :license "MIT, see file LICENSE"
   :depends-on (#:cl-json
+	       #:jeffutils
 	       #:babel
 	       #:drakma)
   :serial t

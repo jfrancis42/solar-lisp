@@ -2,8 +2,7 @@
 
 (defpackage #:solar
   (:use #:cl)
-  (:export :space-weather
-	   :get-xray-event
-	   :get-kp-index
-	   :get-solar-flux
-	   :get-solar-data))
+  (:export :flux
+	   :k-index
+	   :a-index
+           :solar-report))
