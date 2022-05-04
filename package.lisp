@@ -5,4 +5,5 @@
   (:export :flux
 	   :k-index
 	   :a-index
-           :solar-report))
+           :solar-report
+	   :interpret-report))
